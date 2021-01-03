@@ -12,6 +12,21 @@ html {
      border: none;
      text-transform: uppercase;
  }
+
+ .anima{
+   margin-left:100px;
+   margin-top:200px;
+   display: block;
+ }
+
+ .bil{
+   background-color: #b60c0c; 
+   width: 200px;
+   height: 30px;
+   text-align:center;
+   padding:5px;
+   color: #c0b5b5; 
+ }
       
 
 
